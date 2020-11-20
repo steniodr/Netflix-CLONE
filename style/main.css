@@ -89,7 +89,7 @@ header nav a:hover {
 /* Filme Principal */
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/HTML/Netflix/img/lucifer.jpg');
+    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/img/lucifer.jpg');
     height: 400px;
     background-size: cover;
 
@@ -162,7 +162,7 @@ header nav a:hover {
 
 .filme-matrix {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/HTML/Netflix/img/matrix.jpg');
+    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/img/matrix.jpg');
     height: 400px;
     background-size: cover;
 
@@ -195,7 +195,7 @@ header nav a:hover {
 
 .serie-himym {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/HTML/Netflix/img/himym.jpg');
+    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/img/himym.jpg');
     height: 400px;
     background-size: cover;
 
@@ -224,7 +224,7 @@ header nav a:hover {
 
 .documentary {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/HTML/Netflix/img/explicandoSexo.jpg');
+    background: linear-gradient(rgba(0, 0, 0, -50), rgba(0, 0, 0, -50)100%), url('/img/explicandoSexo.jpg');
     height: 400px;
     background-size: cover;
 
